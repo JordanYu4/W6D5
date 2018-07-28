@@ -1,0 +1,13 @@
+* {
+  font-family: arial;
+}
+
+.clock-container {
+  font-size: 2em;
+  border: 1px solid black;
+  padding: 20px;
+  color: #fff;
+  background: orange;
+  font-weight: bold;
+  justify-content: space-between;
+}
